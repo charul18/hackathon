@@ -1,0 +1,16 @@
+<xml>
+<item>
+<seg>
+<title>Sample Article</title>
+<author>charul pant</author>
+<content>This is an article for testing</content>
+<created>21/12/2014</created>
+</seg>
+<seg>
+<title>Sample Article 2</title>
+<author>parul pant</author>
+<content>This is the second article for testing</content>
+<created>22/12/2014</created>
+</seg>
+</item>
+</xml>

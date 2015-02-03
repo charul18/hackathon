@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uploadsegment_id: 
+  title: MyString
+  author: MyString
+  content: MyString
+  created_at: 2015-02-01 16:06:35
+
+two:
+  uploadsegment_id: 
+  title: MyString
+  author: MyString
+  content: MyString
+  created_at: 2015-02-01 16:06:35
